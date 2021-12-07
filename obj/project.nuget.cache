@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yJnCAvtxhgFCsQilhdd7lszKZWRvVu0TbksUsgP1CRXJMq9FWTuNVUxJJDRB8OmHB+BDcvAP9wRNLX6L63tW3Q==",
+  "dgSpecHash": "jvlfTQwrvWclHBh8i5Hip4CZyqOZfRQ+CiblZ+YQPCmWIl2zHS8kxBpXuspquInWCu3cS6LnHOfZEdEm+cAnVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj": {}
+    "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\BookStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj": {
+    "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+        "projectUniqueName": "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
+        "projectPath": "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\BookStoreApi.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\BookStoreApi\\BookStoreApi\\obj\\",
+        "outputPath": "E:\\core6\\Core6\\BooksStore\\BookStoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
